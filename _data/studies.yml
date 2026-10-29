@@ -1,0 +1,23 @@
+# Replace example sessions and IDs. Set placeholder: false when ready.
+# qr_image: local path to an approved QR image; leave empty until supplied.
+languages:
+  - code: en
+    label: English
+  - code: de
+    label: Deutsch
+sessions:
+  - key: session-1730
+    label: "Sports course · ends 17:30"
+    studies:
+      en: { id: "REPLACE_EN_1730", placeholder: true, qr_image: "" }
+      de: { id: "REPLACE_DE_1730", placeholder: true, qr_image: "" }
+  - key: session-1930
+    label: "Sports course · ends 19:30"
+    studies:
+      en: { id: "REPLACE_EN_1930", placeholder: true, qr_image: "" }
+      de: { id: "REPLACE_DE_1930", placeholder: true, qr_image: "" }
+  - key: session-2000
+    label: "Sports course · ends 20:00"
+    studies:
+      en: { id: "REPLACE_EN_2000", placeholder: true, qr_image: "" }
+      de: { id: "REPLACE_DE_2000", placeholder: true, qr_image: "" }

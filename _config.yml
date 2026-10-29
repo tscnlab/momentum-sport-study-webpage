@@ -1,0 +1,12 @@
+title: momenTUM
+url: "https://tscnlab.github.io"
+baseurl: "/momentum-sport-study-webpage"
+markdown: kramdown
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+# Title
+study_title: "Sport and well-being"
+study_title_de: "Sport und Wohlbefinden"
